@@ -5,5 +5,5 @@ This is my final project of the machine learning course, where we design a quest
 ## Usage
 Run system.py
 ```python
-python3 server.py
+python server.py
 ```
